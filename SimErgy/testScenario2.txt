@@ -1,0 +1,11 @@
+name emSim2
+period 20000
+nbPhysicians 10
+nbNurses 10
+nbTransporters 10
+nbBoxRoom 6
+nbShockRoom 6
+nbBloodRoom 5
+nbMriRoom 5
+nbRadioRoom 5
+runSimulation

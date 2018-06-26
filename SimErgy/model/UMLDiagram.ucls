@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="fr.cs.simergy.clientinterface.CLUIdisplayer" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/clientinterface/CLUIdisplayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="128" x="1098" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="fr.cs.simergy.clientinterface.GuiDisplayer" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/clientinterface/GuiDisplayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="128" x="930" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="fr.cs.simergy.clientinterface.MainSimulator" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/clientinterface/MainSimulator.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="128" x="1462" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="fr.cs.simergy.clui.FileReaderException" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/clui/FileReaderException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="160" x="730" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="fr.cs.simergy.clui.CommandException" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/clui/CommandException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="156" x="1266" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="fr.cs.simergy.clui.SimErgyFileReader" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/clui/SimErgyFileReader.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="318" x="1630" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="fr.cs.simergy.clui.CommandExecutor" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/clui/CommandExecutor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="441" width="291" x="2226" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="fr.cs.simergy.clui.CLUI" project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/clui/CLUI.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="170" x="2226" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="fr.cs.simergy.coreed.GoldInsurance" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/GoldInsurance.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="163" x="2410" y="3748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="fr.cs.simergy.coreed.NoInsurance" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/NoInsurance.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="160" x="2200" y="3748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="fr.cs.simergy.coreed.UniformDist" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/UniformDist.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="156" x="4694" y="4463"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="fr.cs.simergy.coreed.SilverInsurance" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/SilverInsurance.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="168" x="2623" y="3748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="fr.cs.simergy.coreed.RandomDistribution" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/RandomDistribution.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="174" x="43" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="fr.cs.simergy.coreed.DeterministicDist" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/DeterministicDist.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="145" x="4890" y="4463"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="fr.cs.simergy.coreed.HealthInsurance" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/HealthInsurance.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="2623" y="4463"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="fr.cs.simergy.coreed.ExponentialDist" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/ExponentialDist.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="139" x="5075" y="4463"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="fr.cs.simergy.coreed.RandomDist" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/coreed/RandomDist.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="131" x="5083" y="3748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="fr.cs.simergy.events.EndBloodExamination" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/EndBloodExamination.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="303" x="5738" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="fr.cs.simergy.events.StartBloodExamination" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/StartBloodExamination.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="243" x="6676" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="fr.cs.simergy.events.EndMRIExamination" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/EndMRIExamination.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="293" x="5254" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="fr.cs.simergy.events.StartTransportation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/StartTransportation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="229" x="3240" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="fr.cs.simergy.events.StartMRIExamination" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/StartMRIExamination.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="233" x="6959" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="fr.cs.simergy.events.StartShockInstallation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/StartShockInstallation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="239" x="3509" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="fr.cs.simergy.events.StartRadioExamination" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/StartRadioExamination.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="243" x="4721" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="fr.cs.simergy.events.PatientArrival" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/PatientArrival.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="235" x="7596" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="fr.cs.simergy.events.EndInstallation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/EndInstallation.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="301" x="2704" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="fr.cs.simergy.events.StartBoxInstallation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/StartBoxInstallation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="228" x="2436" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="fr.cs.simergy.events.EndConsultation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/EndConsultation.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="297" x="6339" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="fr.cs.simergy.events.EndRadioExamination" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/EndRadioExamination.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="303" x="7232" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="fr.cs.simergy.events.EndRegistration" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/EndRegistration.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="278" x="4147" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="fr.cs.simergy.events.PatientArrivalL5" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/PatientArrivalL5.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="212" x="8100" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="fr.cs.simergy.events.Release" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/Release.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="210" x="5004" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="fr.cs.simergy.events.StartConsultation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/StartConsultation.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="218" x="6081" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="fr.cs.simergy.events.StartRegistration" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/StartRegistration.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="216" x="4465" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="fr.cs.simergy.events.EndTransportation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/EndTransportation.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="319" x="3788" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="fr.cs.simergy.events.PatientArrivalL1" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/PatientArrivalL1.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="212" x="7092" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="fr.cs.simergy.events.PatientArrivalL2" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/PatientArrivalL2.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="212" x="7596" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="fr.cs.simergy.events.PatientArrivalL3" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/PatientArrivalL3.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="212" x="7848" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="fr.cs.simergy.events.PatientArrivalL4" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/events/PatientArrivalL4.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="212" x="7344" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="fr.cs.simergy.gui.JTextAreaOutputStream" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/gui/JTextAreaOutputStream.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="198" x="1988" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="fr.cs.simergy.gui.BackgroundPanel" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/gui/BackgroundPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="178" x="491" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="fr.cs.simergy.gui.ParametersFrame" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/gui/ParametersFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="927" width="199" x="491" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="fr.cs.simergy.gui.OutputFrame" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/gui/OutputFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="194" x="1988" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="fr.cs.simergy.gui.WelcomeFrame" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/gui/WelcomeFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="194" x="257" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="fr.cs.simergy.humanresources.Nurse" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/humanresources/Nurse.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="138" x="3118" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="fr.cs.simergy.humanresources.Transporter" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/humanresources/Transporter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="150" x="3338" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="fr.cs.simergy.humanresources.Physician" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/humanresources/Physician.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="405" width="185" x="5315" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="fr.cs.simergy.humanresources.Patient" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/humanresources/Patient.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="675" width="255" x="5254" y="3748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="fr.cs.simergy.materialresources.BoxRoom" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/materialresources/BoxRoom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="143" x="4979" y="4872"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="fr.cs.simergy.materialresources.Room" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/materialresources/Room.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="369" width="154" x="5254" y="4463"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="fr.cs.simergy.materialresources.WaitingRoom" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/materialresources/WaitingRoom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="143" x="5162" y="4872"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="fr.cs.simergy.materialresources.BloodTestRoom" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/materialresources/BloodTestRoom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="143" x="5711" y="4872"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="fr.cs.simergy.materialresources.MRIRoom" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/materialresources/MRIRoom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="143" x="5345" y="4872"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="fr.cs.simergy.materialresources.ShockRoom" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/materialresources/ShockRoom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="143" x="4796" y="4872"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="fr.cs.simergy.materialresources.RadioRoom" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/materialresources/RadioRoom.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="143" x="5528" y="4872"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="56" language="java" name="fr.cs.simergy.simulation.SortingPatients" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/simulation/SortingPatients.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="174" x="3918" y="3748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="57" language="java" name="fr.cs.simergy.simulation.EmergencySimulation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/simulation/EmergencySimulation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="2457" width="280" x="4932" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="fr.cs.simergy.simulation.Event" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/simulation/Event.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="153" x="5329" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="fr.cs.simergy.simulation.Link" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/simulation/Link.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="134" x="3045" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="fr.cs.simergy.simulation.Linkage" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/simulation/Linkage.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="111" x="3200" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="fr.cs.simergy.simulation.SeveritySorting" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/simulation/SeveritySorting.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="174" x="2904" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="fr.cs.simergy.simulation.Simulation" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/simulation/Simulation.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="111" x="5587" y="1004"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="fr.cs.simergy.simulation.Head" 
+    project="Group9_Project_IS1220_part2_ElAamrani_Lhourti" 
+    file="/Group9_Project_IS1220_part2_ElAamrani_Lhourti/src/fr/cs/simergy/simulation/Head.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="111" x="4932" y="3748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="64">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="65" name="instance"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="58" navigable="false">      
+      <attribute id="68" name="pred"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="70">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="71">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="72" name="transporter"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="74">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="75">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="76" name="nurse"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="79" name="sim"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <bendpoint x="3539" y="1251"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="82" name="patient"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="85" name="radioDist"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="88">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="89" name="patientsWaitingForMRITest"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="91">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="92" name="sim"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="94">    
+    <bendpoint x="5530" y="1251"/>    
+    <bendpoint x="5530" y="3748"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="95" name="room"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="97">    
+    <bendpoint x="5263" y="1251"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="98" name="patient"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="100">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="60"/>  
+  </generalization>  
+  <generalization id="101">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="102">    
+    <bendpoint x="7061" y="1251"/>    
+    <bendpoint x="7061" y="3748"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="103" name="room"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="105">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="106">    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="62"/>  
+  </generalization>  
+  <association id="107">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="108" name="instance"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="110">    
+    <bendpoint x="4817" y="1251"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="111" name="patient"/>      
+      <multiplicity id="112" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="113">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="114" name="emptyMRIRoom"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="116">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="117" name="transporter"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <bendpoint x="4838" y="1251"/>    
+    <bendpoint x="4838" y="3748"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="120" name="room"/>      
+      <multiplicity id="121" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <bendpoint x="5284" y="1251"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="123" name="patient"/>      
+      <multiplicity id="124" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="125">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="56"/>  
+  </realization>  
+  <association id="126">    
+    <bendpoint x="4709" y="1251"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="127" name="patient"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="129">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="130">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="131" name="l4Dist"/>      
+      <multiplicity id="132" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="133">    
+    <bendpoint x="7019" y="1251"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="134" name="patient"/>      
+      <multiplicity id="135" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="136">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="137" name="nurse"/>      
+      <multiplicity id="138" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="139">    
+    <bendpoint x="2873" y="3748"/>    
+    <bendpoint x="2873" y="1251"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="140">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="141" name="patientListOverseen"/>      
+      <multiplicity id="142" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="143">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="144">    
+    <bendpoint x="4256" y="1251"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="145" name="patient"/>      
+      <multiplicity id="146" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="147">    
+    <bendpoint x="6113" y="1251"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="148" name="patient"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="150">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="151" name="mriDist"/>      
+      <multiplicity id="152" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="153">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="154">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="155" name="l2Dist"/>      
+      <multiplicity id="156" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="157">    
+    <bendpoint x="2831" y="1251"/>    
+    <bendpoint x="2831" y="3748"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="158" name="room"/>      
+      <multiplicity id="159" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="161" name="physician"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="163">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="164" name="patientsWaitingForShockInstallation"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="166">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="167" name="emptyShockRoom"/>      
+      <multiplicity id="168" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="169">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="170">    
+    <bendpoint x="5730" y="1251"/>    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="171" name="patient"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="173">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="174" name="patientsInSimulation"/>      
+      <multiplicity id="175" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="176">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <association id="177">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="178" name="patientsWaitingForConsultation"/>      
+      <multiplicity id="179" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="180">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="181" name="sim"/>      
+      <multiplicity id="182" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="183">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="184" name="nurse"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <end type="SOURCE" refId="58" navigable="false">      
+      <attribute id="187" name="suc"/>      
+      <multiplicity id="188" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="189">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="190" name="l5Dist"/>      
+      <multiplicity id="191" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="192">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <generalization id="193">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="194">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="195" name="idleNurses"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="197">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="198" name="sim"/>      
+      <multiplicity id="199" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="200">    
+    <bendpoint x="4859" y="1251"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="201" name="patient"/>      
+      <multiplicity id="202" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="203">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="204">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <generalization id="205">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <realization id="206">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="207">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="208" name="nurse"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <end type="SOURCE" refId="60" navigable="false">      
+      <attribute id="211" name="PRED"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="214" name="nurse"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="216">    
+    <bendpoint x="5880" y="1251"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="217" name="patient"/>      
+      <multiplicity id="218" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="219">    
+    <bendpoint x="5751" y="1251"/>    
+    <bendpoint x="5751" y="3748"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="220" name="room"/>      
+      <multiplicity id="221" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="222">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="223" name="bloodDist"/>      
+      <multiplicity id="224" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="225">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="226" name="sim"/>      
+      <multiplicity id="227" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="228">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="229" name="sim"/>      
+      <multiplicity id="230" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="231">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="232" name="sim"/>      
+      <multiplicity id="233" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="234">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="235">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="236" name="idlePhysicians"/>      
+      <multiplicity id="237" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="238">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="239" name="consultationDist"/>      
+      <multiplicity id="240" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="241">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="242" name="l3Dist"/>      
+      <multiplicity id="243" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="244">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="245" name="panel1"/>      
+      <multiplicity id="246" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="247">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="248" name="patient"/>      
+      <multiplicity id="249" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="250">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="251" name="sim"/>      
+      <multiplicity id="252" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="253">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="254" name="sim"/>      
+      <multiplicity id="255" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="256">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <generalization id="257">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <association id="258">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="259" name="patientsWaitingForRegistration"/>      
+      <multiplicity id="260" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="261">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="262" name="sim"/>      
+      <multiplicity id="263" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="264">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="265">    
+    <end type="SOURCE" refId="60" navigable="false">      
+      <attribute id="266" name="SUC"/>      
+      <multiplicity id="267" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="268">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="269" name="sim"/>      
+      <multiplicity id="270" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="271">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="272" name="panel1"/>      
+      <multiplicity id="273" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="274">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <generalization id="275">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <generalization id="276">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <association id="277">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="278" name="sim"/>      
+      <multiplicity id="279" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="281" name="sim"/>      
+      <multiplicity id="282" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="283">    
+    <bendpoint x="5901" y="1251"/>    
+    <bendpoint x="5901" y="3748"/>    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="284" name="room"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="286">    
+    <bendpoint x="4530" y="1251"/>    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="287" name="patient"/>      
+      <multiplicity id="288" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="289">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="290">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="291" name="associatedPhysician"/>      
+      <multiplicity id="292" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="293">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="294">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="295" name="sort"/>      
+      <multiplicity id="296" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="297">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="298" name="instance"/>      
+      <multiplicity id="299" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="300">    
+    <bendpoint x="5677" y="1251"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="301" name="patient"/>      
+      <multiplicity id="302" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="303">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="304" name="idleTransporters"/>      
+      <multiplicity id="305" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="306">    
+    <bendpoint x="6134" y="1251"/>    
+    <bendpoint x="6134" y="3748"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="307" name="room"/>      
+      <multiplicity id="308" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="309">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="310" name="patientsWaitingForTransportation"/>      
+      <multiplicity id="311" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="312">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="313" name="sim"/>      
+      <multiplicity id="314" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="315">    
+    <bendpoint x="2852" y="1251"/>    
+    <bendpoint x="2852" y="3748"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="316" name="room"/>      
+      <multiplicity id="317" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="318">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="319" name="insurance"/>      
+      <multiplicity id="320" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="321">    
+    <bendpoint x="4390" y="1251"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="322" name="patient"/>      
+      <multiplicity id="323" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="324">    
+    <bendpoint x="4880" y="1251"/>    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="325" name="patient"/>      
+      <multiplicity id="326" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="327">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="328" name="emptyRadioRoom"/>      
+      <multiplicity id="329" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="330">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="331" name="emptyBloodRoom"/>      
+      <multiplicity id="332" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="333">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <generalization id="334">    
+    <bendpoint x="3560" y="1251"/>    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="59"/>  
+  </generalization>  
+  <association id="335">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="336" name="command"/>      
+      <multiplicity id="337" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="338">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="339" name="physician"/>      
+      <multiplicity id="340" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="47" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="341">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="342">    
+    <end type="SOURCE" refId="58" navigable="false">      
+      <attribute id="343" name="SQS"/>      
+      <multiplicity id="344" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="345">    
+    <bendpoint x="3518" y="1251"/>    
+    <bendpoint x="3518" y="3748"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="346" name="room"/>      
+      <multiplicity id="347" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="348">    
+    <bendpoint x="3581" y="1251"/>    
+    <bendpoint x="3209" y="1004"/>    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="60"/>  
+  </generalization>  
+  <association id="349">    
+    <bendpoint x="7040" y="1251"/>    
+    <bendpoint x="7040" y="3748"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="350" name="room"/>      
+      <multiplicity id="351" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="352">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="353">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="354">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="355" name="patientListTreated"/>      
+      <multiplicity id="356" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="357">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <generalization id="358">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="359">    
+    <bendpoint x="3286" y="1251"/>    
+    <bendpoint x="3286" y="3748"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="360" name="room"/>      
+      <multiplicity id="361" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="362">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="363" name="location"/>      
+      <multiplicity id="364" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="365">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="366">    
+    <bendpoint x="6092" y="1251"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="367" name="patient"/>      
+      <multiplicity id="368" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="369">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="370" name="patientsWaitingForBloodTest"/>      
+      <multiplicity id="371" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="372">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <association id="373">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="374" name="instance"/>      
+      <multiplicity id="375" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="376">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="377" name="sim"/>      
+      <multiplicity id="378" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="379">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="380" name="emptyBoxRoom"/>      
+      <multiplicity id="381" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="382">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="383" name="patientsWaitingForBoxInstallation"/>      
+      <multiplicity id="384" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="385">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <association id="386">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="387" name="outStream"/>      
+      <multiplicity id="388" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="389">    
+    <bendpoint x="3307" y="1251"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="390" name="patient"/>      
+      <multiplicity id="391" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="392">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="393" name="l1Dist"/>      
+      <multiplicity id="394" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="395">    
+    <end type="SOURCE" refId="43" navigable="false">      
+      <attribute id="396" name="errStream"/>      
+      <multiplicity id="397" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="398">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="399" name="patientsWaitingForRadioTest"/>      
+      <multiplicity id="400" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="63" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="401">    
+    <end type="SOURCE" refId="42" navigable="false">      
+      <attribute id="402" name="panel1"/>      
+      <multiplicity id="403" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="404">    
+    <bendpoint x="6998" y="1251"/>    
+    <bendpoint x="7565" y="1004"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="405" name="history"/>      
+      <multiplicity id="406" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="407">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="58"/>  
+  </generalization>  
+  <generalization id="408">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <association id="409">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="410" name="sim"/>      
+      <multiplicity id="411" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="412">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="413">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="50"/>  
+  </generalization>  
+  <association id="414">    
+    <bendpoint x="4901" y="1251"/>    
+    <bendpoint x="4901" y="3748"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="415" name="room"/>      
+      <multiplicity id="416" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="417">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="418" name="sim"/>      
+      <multiplicity id="419" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="420">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="421" name="sim"/>      
+      <multiplicity id="422" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
