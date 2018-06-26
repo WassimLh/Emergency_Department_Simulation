@@ -1,4 +1,4 @@
-# Emergency_Department_Simulation
+# Emergency Department Simulation
 
 This project is part of an Object oriented software design course at CentraleSupelec University.
 
